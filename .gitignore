@@ -1,0 +1,19 @@
+node_modules/
+dist/
+web/.next/
+web/node_modules/
+web/next-env.d.ts
+data/
+*.db
+*.db-*
+.env*
+!.env.example
+web/.env*
+!web/.env.example
+*.pem
+*.tsbuildinfo
+.questivibe/
+# unslop skill output (snapshots, story video frames)
+/unslop/
+/unslop-story/
+/unslop-story.mp4
