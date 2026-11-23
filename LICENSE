@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-This license covers the code in this repository. It does NOT cover:
-- the 3D models in public/assets/ — Polyfork, CC BY 4.0 (see public/assets/CREDITS.txt, CREDITS.md);
-- the agent skills in .agents/skills/ — each keeps its own LICENSE and NOTICE.md.
